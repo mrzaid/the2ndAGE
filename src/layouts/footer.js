@@ -25,7 +25,7 @@ function Footer() {
                     <ul className="text-white">
                         <li><Link className="hover:text-primary transition duration-500 " to="#">  mailto:contact@the2ndage.com <i className="fa fa-envelope" aria-hidden="true"></i></Link></li>
                   
-                        <li><a className="hover:text-primary  transition duration-500 " href="https://https://github.com/mrzaid" target="_blank" >  mrzaidahmed <i className="fa fa-github" aria-hidden="true"></i></a></li>
+                        <li><a className="hover:text-primary  transition duration-500 " href="https://github.com/mrzaid" target="_blank" >  mrzaidahmed <i className="fa fa-github" aria-hidden="true"></i></a></li>
                     </ul>
                 </div>
             </div>
