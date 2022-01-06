@@ -12,7 +12,7 @@ function Navbar() {
 
         <div className="lg:px-16 w-full px-6 bg-secondry border-primary border-b-2 p-2 flex flex-wrap items-center lg:py-0 z-20">
           <div className="flex-1 flex justify-between items-center">
-            <Link to="/" className="ml-3 text-4xl text-white font-bold">Shoe<span className="text-primary">Master</span></Link>
+            <Link to="/" className="ml-3 text-4xl text-white font-bold">The2ndage<span className="text-primary"></span></Link>
           </div>
           <label htmlFor="menu-toggle" className="pointer-cursor lg:hidden block"><svg className="fill-current text-white" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20"><title>menu</title><path d="M0 3h20v2H0V3zm0 6h20v2H0V9zm0 6h20v2H0v-2z"></path></svg></label>
 
